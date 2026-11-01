@@ -1,3 +1,3 @@
 NAME                   DESIRED   CURRENT   READY   AGE
-guestbook-7489c67bc7   1         1         1       15m
-guestbook-69f78d8955   0         0         0       5m
+guestbook-74897f848    1         1         1       10m
+guestbook-5d989b5d7d   0         0         0       5m
