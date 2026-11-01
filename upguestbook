@@ -1,8 +1,6 @@
-The push refers to repository [us.icr.io/sn-labs-ankitagaikwad2806/guestbook]
-2c09b827e436: Preparing
-a6007e9d72e1: Preparing
-5f70bf18a086: Layer already exists
-d3d82a17f6e0: Layer already exists
-e0e1fd04d31b: Pushed
-930bbadfb7d3: Pushed
-v1: digest: sha256:d8a554a9c68fe6317b960b13813fffa841ddca093e9ad5e4be7882259a5bf328 size: 1776
+The push refers to repository [us.icr.io/<sn-labs-namespace>/guestbook]
+8d34b21c43f7: Layer already exists
+6b2a09b30c1f: Layer already exists
+9c5123d1b702: Layer already exists
+f2e718b9c401: Pushed
+v2: digest: sha256:4f89d3c5182937be9b3c4d5e1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b size: 1158
