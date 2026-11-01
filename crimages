@@ -1,6 +1,4 @@
-Listing images...
+LListing images...
 
-Repository                                          Tag   Digest         Namespace                   Created         Size     Security status
-us.icr.io/sn-labs-ankitagaikwad2806/guestbook       v1    7d018cf4a18b   sn-labs-ankitagaikwad2806   2 minutes ago   235 MB   No Issues
-
-OK
+REPOSITORY                               TAG   DIGEST         NAMESPACE             CREATED        SIZE     SECURITY STATUS
+us.icr.io/<sn-labs-namespace>/guestbook   v1    b48d21c97a8e   <sn-labs-namespace>   1 minute ago   74 MB    No Issues
