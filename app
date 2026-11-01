@@ -15,11 +15,12 @@
     <div id="guestbook-entries">
       <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
       <p>Waiting for database connection... <i class='em em-boat'></i></p>
+      
     </div>
 
     <div>
       <form id="guestbook-form">
-        <input autocomplete="off" id="guestbook-entry-content" type="text" placeholder="Enter your message...">
+        <input autocomplete="off" id="guestbook-entry-content" type="text">
         <a href="#" id="guestbook-submit">Submit</a>
       </form>
     </div>
@@ -27,7 +28,13 @@
     <div>
       <p><h2 id="guestbook-host-address"></h2></p>
       <p><a href="env">/env</a>
-      <a href="info">/info</a>
+      <a href="info">/info</a></p>
+    </div>
+    <script src="jquery.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
+
       <a href="hello">/hello</a></p>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
